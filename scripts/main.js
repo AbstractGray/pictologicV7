@@ -1,4 +1,11 @@
-const ui = require("ui_lib/library");
+const ui = require("pictologic/ui_library");
+require("pictologic/ui_areas");
+require("pictologic/ui_effects");
+require("pictologic/ui_clicks");
+require("pictologic/ui_errors");
+require("pictologic/ui_selection");
+
+Events.on(ClientLoadEvent, ui.load);
 
 const core = require("pictologic/core");
 
