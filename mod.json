@@ -1,10 +1,9 @@
 {
-	"name": "pictologicv7",
-	"displayName": "PicToLogic V7",
-	"author": "Original: deltanedas, Router and another guy Fixes:AbstractGray",
-	"description": "Adds a dialog for turning images into processor schematics.\n[stat]Requires [#00aaff]deltanedas/ui_lib[].",
-	"version": "1.6.0",
-	"dependencies": ["ui_lib"],
+	"name": "pictologicV7",
+	"displayName": "PicToLogicV7",
+	"author": "Original by: deltanedas, Router and another guy. Fixes by: AbstractGray",
+	"description": "Adds a dialog for turning images into processor schematics.\nFor V7 Adaptation.\nThere are no dependencies, they are built in",
+	"version": "1.0.0",
 	"minGameVersion": 136,
 	"hidden": true,
 	"repo": "AbstractGray/pictologicV7"
