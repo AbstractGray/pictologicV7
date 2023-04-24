@@ -7,3 +7,5 @@ v7 136 minimum
 3. Select an image
 4. Adjust settings if you want
 5. Export and use the schematic
+
+!!!This mod is fork of original mod by deltanedas!!!
